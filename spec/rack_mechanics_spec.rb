@@ -18,3 +18,4 @@ describe "an ok request" do
     expect(last_response.body).to include("You Lose")
   end
 end
+ 
